@@ -151,7 +151,7 @@
   height: 100%;
   position: absolute;
   top: 0;
-  right: 20%;
+  right: 10%;
   border: 1px solid transparent;
   border-radius: 30%;
   scale: 0.9;
@@ -172,7 +172,7 @@
   height: 100%;
   -o-object-fit: contain;
   object-fit: contain;
-  border-radius: 50%;
+  border-radius: 10%;
 }
 .hero .slidingTextContainer {
   position: absolute;

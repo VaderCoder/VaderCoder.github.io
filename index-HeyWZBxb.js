@@ -15896,7 +15896,7 @@ const ZS = {
         }),
         x.jsx("div", {
           className: "imageContainer",
-          children: x.jsx("img", { src: "../../download.png", alt: "" }),
+          children: x.jsx("img", { src: "../../profile1.png", alt: "" }),
         }),
       ],
     }),
